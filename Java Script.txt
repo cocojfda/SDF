@@ -7,9 +7,3 @@ public static void main(String[] args) {
     if(a>b)
     {
     	JOptionPane.showMessageDialog(null, "a>b");
-    }
-    else
-    {
-    	JOptionPane.showMessageDialog(null, "a<=b");
-    }
-}}
